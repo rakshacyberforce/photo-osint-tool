@@ -144,7 +144,8 @@ The author is not responsible for misuse of this tool.
 
 Kunj Patel
 
-osint expert
+🔍 OSINT Expert 
+🛡 Certified Cyber Crime Investigato
 
 
 ---
@@ -154,5 +155,6 @@ osint expert
 If you find this project useful, consider giving it a **star** on GitHub.
 
 ---
+
 
 
