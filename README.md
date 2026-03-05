@@ -1,7 +1,3 @@
-तुम्हें GitHub के लिए **professional description + documentation** चाहिए। नीचे मैं तुम्हें पूरा **README content** दे रहा हूँ जिसे सीधे अपने repo में डाल सकते हो। 🚀
-
----
-
 # 📷 Photo OSINT Tool
 
 **Photo OSINT Tool** is an open-source investigation tool designed to extract intelligence from images.
@@ -158,4 +154,5 @@ osint expert
 If you find this project useful, consider giving it a **star** on GitHub.
 
 ---
+
 
