@@ -70,7 +70,7 @@ photo-osint-tool
 Clone the repository:
 
 ```
-git clone https://github.com/USERNAME/photo-osint-tool.git
+git clone https://github.com/rakshacyberforce/photo-osint-tool.git
 cd photo-osint-tool
 ```
 
@@ -155,6 +155,7 @@ Kunj Patel
 If you find this project useful, consider giving it a **star** on GitHub.
 
 ---
+
 
 
 
